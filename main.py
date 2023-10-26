@@ -1,4 +1,4 @@
-import os
+
 from MainForm import MainForm
 from tkinter import Tk
 from database import Database
